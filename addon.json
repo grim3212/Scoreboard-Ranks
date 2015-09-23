@@ -1,0 +1,11 @@
+{
+	"title"		:	"Scoreboard Ranks",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
